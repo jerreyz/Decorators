@@ -1,7 +1,7 @@
 # Decorators
 ==============================================
 
-|Build Status| |npm| |PyPI| |NPM Downloads| |Try ccxt on RunKit| |Gitter| |Supported Exchanges|
+||PyPI| |Jupyter|
 
 Some compiled theory and exercises on python decorators.   
 
