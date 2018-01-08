@@ -1,7 +1,7 @@
 # Decorators
 ==============================================
 
-||PyPI| |Jupyter|
+|PyPI| |Jupyter|
 
 Some compiled theory and exercises on python decorators.   
 
